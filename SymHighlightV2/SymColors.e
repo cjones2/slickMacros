@@ -5,7 +5,7 @@
 ////////////////////////////////////////////////////////////////////////////////////
 #import "slick.sh"
 #import "markers.sh"
-#import "colorDistance.e"
+#import "ColorDistance.e"
 #import "SymDebug.e"
 #import "sc/lang/IHashTable.e"
 #include "slickCompat.h"

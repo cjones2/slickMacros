@@ -8,7 +8,7 @@
 #import "stdprocs.e"
 #import "sc/lang/IToString.e"
 #import "sc/lang/IHashable.e"
-#import "colorDistance.e"
+#import "ColorDistance.e"
 #import "markers.sh"
 #import "SymColors.e"
 #import "WordInfo.e"
